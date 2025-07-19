@@ -1,3 +1,2 @@
 include tiger.h
 include README.rst
-include test.py
